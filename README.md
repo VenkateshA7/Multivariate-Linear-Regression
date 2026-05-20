@@ -6,19 +6,21 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-<br>
+<br>Import the required libraries numpy and matplotlib.
 
 ### Step2
-<br>
+<br>Define the input data values for X and Y using NumPy arrays.
 
 ### Step3
-<br>
+<br>Calculate the mean of X and Y, then find the slope (m) and intercept (c) of the regression line.
 
 ### Step4
-<br>
+<br>Predict the output values using the equation:
+
+Y=mX+c
 
 ### Step5
-<br>
+<br>Display the original data points and regression line using scatter plot and line plot.
 
 ## Program:
 ```
